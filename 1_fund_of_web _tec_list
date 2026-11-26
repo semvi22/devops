@@ -1,0 +1,14 @@
+for first time need to configure github in our system
+git config --global user.name "semvi22"
+git config --global user.email "semwalvikas2219@gmail.com"
+
+mandatory command
+git init
+git remote add origin 
+
+git pull origin main
+git status 
+git add
+git commit -m "initail message"
+git push
+git checkout -b "branch name" for creating new branch  
